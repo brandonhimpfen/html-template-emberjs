@@ -8,7 +8,7 @@
 
 /* THANKS */
 
-	HTML Ember.JS Template: Brandon Himpfen
+	HTML Ember.js Template: Brandon Himpfen
 	Twitter: @brandonhimpfen
 	From: Toronto, Ontario, Canada
 
